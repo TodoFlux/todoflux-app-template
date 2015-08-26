@@ -22,7 +22,7 @@
 - [Twitter](http://twitter.com/__)
 - [Google+]()
 
-*Let us [know](https://github.com/tastejs/todomvc/issues) if you discover anything worth sharing.*
+*Let us [know](https://github.com/todoflux/todoflux/issues) if you discover anything worth sharing.*
 
 
 ## Implementation
