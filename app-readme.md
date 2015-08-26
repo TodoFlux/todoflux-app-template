@@ -1,4 +1,4 @@
-# Framework Name • [TodoMVC](http://todomvc.com)
+# Framework Name • [TodoFlux](http://todoflux.com)
 
 > Official description of the framework (from its website)
 
